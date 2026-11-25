@@ -146,10 +146,4 @@ Publication verification on October 25: **69 targeted application checks passed*
 | `demo_data/` | Fictional import workbook; not verified live inventory |
 | `docs/`, `tests/`, `tools/` | Current judge documentation, targeted checks and reproducible setup |
 
-## Privacy, licensing and submission
 
-Private databases, credentials, reference photos, masks, vectors, model weights, videos and connection files stay out of Git. Existing private photos require explicit approval before appearing in public screenshots/video. Whole-host authentication must protect Streamlit media and WebSocket routes; a UI password alone is insufficient. [Security and third-party terms](docs/security.md).
-
-NVIDIA models/TAO, SigLIP2, optional Ultralytics code and uploaded photographs retain their own terms. Check those terms before redistribution; no checkpoints are shipped here. See [third-party and publication notes](docs/security.md).
-
-This entry targets the **OpenCV AI Competition 2026, powered by AWS**. No COOL or Agentic Vision special-award claim is made. The [demo guide](docs/demo.md) describes the recorded workflow and live demonstration access. [Official requirements](https://opencv26.devpost.com/).
